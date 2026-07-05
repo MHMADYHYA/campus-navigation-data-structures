@@ -1,0 +1,6 @@
+orig,dest,type,weight,interval
+MainGate,BuildingA,walk,5,
+BuildingA,Library,walk,6,
+MainGate,Library,walk,15,
+Library,Lab,walk,4,
+MainGate,Library,shuttle,2,10
