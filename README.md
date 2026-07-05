@@ -33,3 +33,13 @@ Python, Data Structures, Graphs, Dijkstra, Kruskal, Union-Find, CSV
 - This repository is prepared as a clean public GitHub portfolio version.
 - Original course reports that contain student IDs or private details are not committed.
 - The committed material focuses on source code, safe visuals, result screenshots, and a technical summary.
+
+## Full Project Package
+
+This repository now includes the complete public project package:
+
+- `docs/full_report_redacted.md` - full technical report text with private identifiers removed.
+- `assets/full_report_media/` or `assets/full_report_pages/` - report figures/pages where available.
+- Project source/configuration folders where the original project included runnable code or design files.
+
+Original raw report archives are not committed because they can contain private student metadata in covers, headers, or document properties.
